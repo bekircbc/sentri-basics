@@ -33,4 +33,5 @@
 
 - [Click hier to read](https://develop.sentry.dev/)
 
+- [Read Development Philosophy](https://develop.sentry.dev/philosophy/)
       
